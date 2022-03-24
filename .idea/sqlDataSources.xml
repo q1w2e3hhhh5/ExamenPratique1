@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="67a52167-52da-42e3-aa44-7fda816c17fb" name="examen1 Mapping">
+      <data-sources db="21a2bc79-af85-430a-a2ce-0152af40577d" ddl="8e9a986c-b386-4bd5-b823-4c7da491d29b" />
+    </mapping>
+  </component>
+</project>
